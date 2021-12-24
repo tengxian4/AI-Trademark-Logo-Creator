@@ -1,3 +1,3 @@
 Documentation for AI Trademark Logo Creator
-![alt text] ./SoftwareDevelopmentEstimate.jpg
+![alt text] ./SoftwareDevelopmentEstimate.jpg?raw=true
 
