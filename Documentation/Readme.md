@@ -7,22 +7,22 @@ Documentation for AI Trademark Logo Creator
 ![CostEstimate](https://user-images.githubusercontent.com/55143952/147340530-74302d2a-6f5d-4809-a3c8-946b17f4a6b4.jpg)
 
 ![RAM](https://user-images.githubusercontent.com/55143952/147342557-2957982c-a771-46ca-a53d-0410a55d245f.png)
-- Project Manager
-\nGuides and plan all the activities
+- Project Manager<br />
+Guides and plan all the activities
 
-- Procurement Manager
-\nPrepare all the documents related with purchasing
+- Procurement Manager<br />
+Prepare all the documents related with purchasing
 
-- Financial Analyst
-\nTracking budget and cost of the project
+- Financial Analyst<br />
+Tracking budget and cost of the project
 
-- Quality Manager
-\nEnsure the quality of the process and product of the project
+- Quality Manager<br />
+Ensure the quality of the process and product of the project
 
-- Implementation Manager
-\nResponsible with all the implementation of the product
+- Implementation Manager<br />
+Responsible with all the implementation of the product
 
-- Stakeholder Coordinator 
-\nCommunicate with stakeholder to ensure the implementation is the expectation of the stakeholders
+- Stakeholder Coordinator <br />
+Communicate with stakeholder to ensure the implementation is the expectation of the stakeholders
 
 
