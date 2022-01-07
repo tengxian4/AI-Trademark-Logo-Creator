@@ -1,4 +1,4 @@
-Group Name: Hilton Technology Sdn Bhd <br />
+Group Name: Hilton Technology  <br />
 Title: AI Trademark Logo Creator<br />
 
 Project Manager  : Khaw Teng Xian B031910447 <br />
