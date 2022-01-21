@@ -1,0 +1,113 @@
+/* 5 column grid */
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-xs-25,
+.col-sm-25,
+.col-md-25,
+.col-lg-25 {
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.off-md-15{
+	margin-left: 20%;
+}
+
+.col-xs-35,
+.col-sm-35,
+.col-md-35,
+.col-lg-35 {
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-xs-45,
+.col-sm-45,
+.col-md-45,
+.col-lg-45 {
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.col-xs-25 {
+    width: 40%;
+    float: left;
+}
+
+.col-xs-35 {
+    width: 60%;
+    float: left;
+}
+
+.col-xs-35 {
+    width: 80%;
+    float: left;
+}
+
+@media (min-width: 768px) {
+	.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+    .col-sm-25 {
+        width: 40%;
+        float: left;
+    }
+    .col-sm-35 {
+        width: 60%;
+        float: left;
+    }
+    .col-sm-45 {
+        width: 80%;
+        float: left;
+    }
+}
+
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+    .col-md-25 {
+        width: 40%;
+        float: left;
+    }
+    .col-md-35 {
+        width: 60%;
+        float: left;
+    }
+    .col-md-45 {
+        width: 80%;
+        float: left;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
+    .col-lg-25 {
+        width: 40%;
+        float: left;
+    }
+    .col-lg-35 {
+        width: 60%;
+        float: left;
+    }
+    .col-lg-45 {
+        width: 80%;
+        float: left;
+    }
+}
