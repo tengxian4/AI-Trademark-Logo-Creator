@@ -1,0 +1,47 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+
+<!--https://ajax.googleapis.com/ajax/libs/jquery/3.5.1.jquery.min.js-->
+<script src="/script.js"></script>
+<style>
+    body {
+      background-color:burlywood;
+      position: relative; /* usually the parent, in this case the body element, has position relative so that the absolute positioned child is positioned relative to it */
+  height: 100vh; /* 100% of the viewport height */
+  margin: 0; /* recommended */
+    }
+    form {
+ position: absolute; /* taken out of the normal flow of the document */
+ top: 50%; /* moved down by 50% of the screen height */
+ transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
+ width: 100%; /* needs to be defined to keep the default block behavior */
+ text-align: center;
+ margin: 0; /* again, for perfect center */
+ box-sizing: border-box;
+ height: 50px;
+}
+h1 {
+ position: absolute; /* taken out of the normal flow of the document */
+ top: 40%; /* moved down by 50% of the screen height */
+ transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
+ width: 100%; /* needs to be defined to keep the default block behavior */
+ text-align: center;
+ margin: 0; /* again, for perfect center */
+ font-size: 70px;
+}
+
+    </style>
+<body class="body">
+<h1 ><%=quote%></h1>
+<img id="myImg" src="image1.jpg" alt="The Pulpit Rock" width="300" height="200" style="position: absolute;right: 10px;">  
+
+
+<form method="post" id="changeQuote" >
+    <input 
+    type="text"
+    placeholder="Set the keyword"
+    name="quote"
+    id="value-name"
+    />
+<button>Generate</button>
+</form>
+</body>
