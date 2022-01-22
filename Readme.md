@@ -6,7 +6,7 @@
 
 Project Manager  : Khaw Teng Xian B031910447 <br />
 Quality Manager : Lim Wen Ni B031910441<br />
-Financial Analyst  : Reca Seng binti Mohd Fadzil Seng B031910187 <br />
+Financial Analyst  : Reca Seng Binti Mohd Fadzil Seng B031910187 <br />
 
 <h2>Project Description</h2>
 <p>This project is focusing on creating the unique design of the logo. A logo or a brand is a very important sign for a company. We can identify the service or product that the company sell through their trademark logo. The trademark logo may be designed with a combination of icon, word, image, symbol or colour. But this project is more focused on customizing a unique font design for a trademark logo. Thus, the project's purpose is to create a unique trademark logo which to avoid the problems with misidentification and plagiarism of trademarks. Therefore, we are able to design your own company trademark logo by typing your company name, adjusting the customize options and then selecting the desired font style on your own. Now, your unique trademark logo will be created.</p>
