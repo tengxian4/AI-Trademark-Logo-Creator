@@ -25,7 +25,7 @@ Financial Analyst  : Reca Seng binti Mohd Fadzil Seng B031910187 <br /></h6>
 <h2>Project Planning</h2>
 <h3>Gantt Chart</h3>
 <p align="center">
-  <img src="assets/gantt_chart.png" width="2500" title="gantt chart">
+  <img src="assets/gantt.png" width="2500" title="gantt chart">
 </p>
 <h3>Work Breakdown Structure (WBS)</h3>
 <p align="center">
@@ -117,7 +117,7 @@ Time|Not enough time to implement a more mature system. This is because of time 
  
   <p><b>3.0 Original and Actual Schedule</b></p>
   <p align="left">
-  <img src="assets/gantt_chart.png" width="2500" title="gantt chart">
+  <img src="assets/gantt.png" width="2500" title="gantt chart">
 </p>
   
   <p><b>4.0 Original and Actual Budget</b></p>
