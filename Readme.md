@@ -29,7 +29,7 @@ Financial Analyst  : Reca Seng binti Mohd Fadzil Seng B031910187 <br /></h6>
 </p>
 <h3>Work Breakdown Structure (WBS)</h3>
 <p align="center">
-  <img src="assets/wbs.png" width="1000" title="wbs">
+  <img src="images/wbs.png" width="1000" title="wbs">
 </p>
 <h3>Responsibility Assignment Matrices (RAM)</h3>
 <p align="left">
