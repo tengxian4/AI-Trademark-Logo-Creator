@@ -38,7 +38,7 @@ Financial Analyst  : Reca Seng binti Mohd Fadzil Seng B031910187 <br /></h6>
 
 <h3>Roles & Resposibility</h3>
 <p align="left">
-  <img src="assets/roles.png" width="900" title="ram">
+  <img src="assets/roles.png" width="900" title="roles">
 </p>
 
 
