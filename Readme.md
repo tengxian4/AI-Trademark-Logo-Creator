@@ -67,7 +67,37 @@ Time|Not enough time to implement a more mature system. This is because of time 
 <p align="left">
   <img src="assets/milestone.JPG" width="800" title="milestone">
 </p>
-
+<table>
+<tr>
+<th>Milestone</th> 
+<th>Scheduled Completion</th> 
+<th> Actual Completion</th> 
+<tr>
+<td>Project Approval</td>
+<td>7/10/2021</td>
+<td>7/10/2021</td>
+</tr>
+<tr>
+<td>Requirement Analysis and Scope review</td>
+<td> 21/10/2021</td> 
+<td>21/10/2021</td>
+</tr>
+<tr>
+<td>Cost Estimating and Budgeting</td> 
+<td>22/10/2021</td> 
+<td>22/10/2021</td>
+</tr>
+<tr>
+<td>Implementation</td> 
+<td>3/12/2021</td> 
+<td>7/1/2022 </td>
+</tr>
+<tr>
+<td>Deployment</td> 
+<td>16/12/2021</td> 
+<td>13/1/2022</td>
+</tr>
+</table>
 
 <h1><b>Executing the project</b></h1>
 <h3><b>Project Design and coding</b><h3>
