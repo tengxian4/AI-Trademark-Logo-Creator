@@ -66,8 +66,8 @@ Time|Not enough time to implement a more mature system. This is because of time 
 
 <h1><b>Implementation of Project Plan</b></h1>
 <p>Deliverables:</p>
-<h6> • Gantt Chart</h6>
-<h6> • WBS Structure</h6>
+<h6>•  A system that can suggest the word styles and colours for the user</h6>
+
 
 <h3>Tasks and Estimated Costs</h3>
 <p align="left">
