@@ -113,7 +113,7 @@ Time|Not enough time to implement a more mature system. This is because of time 
 <h1><b>Final Project Report</b></h1>
   <p><b>1.0 Project Objectives:</b> The AI trademark logo creator project are done by Hilton Technology Sdn. Bhd. was intended to develop an artificial intelligence system that are able to generate a unique trademark logo for a company. It can help to customize your own unique trademark logo and make sure its uniqueness and avoid from plagiarism. We also intend to build a simple website GUI for the future ease in creating a unique trademark logo. </p>
 
-  <p><b>2.0 Summary of Project Results:</b> Upon the project is finised, we manage to build an intelligent system that are able to customize a unique trademark logo by user. </p>
+  <p><b>2.0 Summary of Project Results:</b> Upon the project is finished, we manage to build an intelligent system that are able to customize a unique trademark logo by user. </p>
  
   <p><b>3.0 Original and Actual Schedule</b></p>
   <p align="left">
