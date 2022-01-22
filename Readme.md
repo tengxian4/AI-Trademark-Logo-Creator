@@ -37,24 +37,11 @@ Financial Analyst  : Reca Seng binti Mohd Fadzil Seng B031910187 <br /></h6>
 </p>
 
 <h3>Roles & Resposibility</h3>
+<p align="left">
+  <img src="assets/roles.png" width="900" title="ram">
+</p>
 
-<b>Khaw Teng Xian</b>
-Roles | Responsibility
----|---
-Project Manager |  Guides and plan all the activities
-Implementation Manager | Responsible with all the implementation of the product
 
-<b>Lim Wen Ni</b>
-Roles | Responsibility
----|---
-Quality Manager | Ensure the quality of the process and product of the project
-Stakeholder Coordinator | Communicate with stakeholder to ensure the implementation is the expectation of the stakeholders
-
-<b>Reca Seng binti Mohd Fadzil Seng</b>
-Roles | Responsibility
----|---
-Procurement Manager | Prepare all the documents related with purchasing
-Financial Analyst | Tracking budget and cost of the project
 
 <h3>Risk Identification Chart</h3>
 
