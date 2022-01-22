@@ -64,9 +64,9 @@ Time|Not enough time to implement a more mature system. This is because of time 
 </p>
 
 <h3>Milestone Chart</h3>
-<p align="left">
+<!--<p align="left">
   <img src="assets/milestone.JPG" width="800" title="milestone">
-</p>
+</p>-->
 <table>
 <tr>
 <th>Milestone</th> 
