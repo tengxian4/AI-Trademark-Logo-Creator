@@ -160,5 +160,6 @@ Time|Not enough time to implement a more mature system. This is because of time 
   
   <h1><b>Project Presentation</b></h1>
   <h3><b>Presentation Video</b></h3>
-  Click [here](-https://youtu.be/_n_VxiyF0wM-)
-  
+  Click https://youtu.be/_n_VxiyF0wM- <!--[here](-https://youtu.be/_n_VxiyF0wM-)-->
+add on some explanation on <br>
+7.59 min - remove not useful data. The data is not useful because it is too light 
