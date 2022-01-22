@@ -141,7 +141,7 @@ Time|Not enough time to implement a more mature system. This is because of time 
   <p><b>4.0 Original and Actual Budget</b></p>
   <p>4.1 Cost Estimation:</p>
     <p align="left">
-  <img src="Documentation/CostEstimate.jpg" width="1000" title="cost_estimate">
+  <img src="images/CostEstimate.jpg" width="1000" title="cost_estimate">
 </p>
  <p>4.2 NPV value:</p>
 <p align="left">
