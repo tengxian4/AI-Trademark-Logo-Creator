@@ -79,6 +79,13 @@ Time|Not enough time to implement a more mature system. This is because of time 
 <h3>Milestone Chart</h3>
 <p align="left">
   <img src="assets/milestone.JPG" width="800" title="milestone">
+Milestone| Scheduled Completion| Actual Completion
+---|---|---
+Project Approval| 7/10/2021| 7/10/2021
+Requirement Analysis and Scope review| 21/10/2021| 21/10/2021
+Cost Estimating and Budgeting| 22/10/2021| 22/10/2021
+Implementation| 3/12/2021| 7/1/2022 
+Deployment| 16/12/2021| 13/1/2022
 </p>
 
 <h1><b>Executing the project</b></h1>
